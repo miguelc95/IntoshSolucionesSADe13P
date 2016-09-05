@@ -34,6 +34,7 @@ class ViewController: UIViewController, ProximityContentManagerDelegate {
                 BeaconID(UUIDString: "B9407F30-F5F8-466E-AFF9-25556B57FE6D", major: 12913, minor: 10250),
                 BeaconID(UUIDString: "B9407F30-F5F8-466E-AFF9-25556B57FE6D", major: 19952, minor: 59011),
                 BeaconID(UUIDString: "B9407F30-F5F8-466E-AFF9-25556B57FE6D", major: 18012, minor: 47752)
+
             ],
             beaconContentFactory: CachingContentFactory(beaconContentFactory: BeaconDetailsCloudFactory()))
         self.proximityContentManager.delegate = self
