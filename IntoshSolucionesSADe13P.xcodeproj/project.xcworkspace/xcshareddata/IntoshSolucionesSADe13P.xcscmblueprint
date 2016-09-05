@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7761436DE18FE27B3CE9EC64C8AF13049F2E1A2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9D7A5CB785B183D68AA6DDB165AB65D32411AD6F" : 0,
+    "7761436DE18FE27B3CE9EC64C8AF13049F2E1A2B" : 0,
+    "DBCBB196685A19544D2374989A514427E90348B5" : 0,
+    "2A457001393A2CCDD6FE2FE74322FDF44AE26F39" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B9DD1843-89E4-4E78-BB6C-1698EEBFE470",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9D7A5CB785B183D68AA6DDB165AB65D32411AD6F" : "CarBeacons\/",
+    "7761436DE18FE27B3CE9EC64C8AF13049F2E1A2B" : "Beacons%20Respaldo%20copy\/",
+    "DBCBB196685A19544D2374989A514427E90348B5" : "CarBeacons\/IntoshSolucionesSADe13P\/",
+    "2A457001393A2CCDD6FE2FE74322FDF44AE26F39" : "CBeacons\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "IntoshSolucionesSADe13P",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "IntoshSolucionesSADe13P.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miguelc95\/CBeacons.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2A457001393A2CCDD6FE2FE74322FDF44AE26F39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miguelc95\/iCarBeacons.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7761436DE18FE27B3CE9EC64C8AF13049F2E1A2B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miguelc95\/CarBeacons.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9D7A5CB785B183D68AA6DDB165AB65D32411AD6F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miguelc95\/IntoshSolucionesSADe13P.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBCBB196685A19544D2374989A514427E90348B5"
+    }
+  ]
+}
